@@ -3,7 +3,7 @@
 ## Authors
 
 [kahenya-anita](https://github.com/kahenya-anita)
-[rosekairu] https://github.com/rosekairu)
+[rosekairu](https://github.com/rosekairu)
 
 ## Description
 
@@ -56,7 +56,7 @@ This address book is great is great for keeping track of our contacts' full name
 
 ## License
 
-* Licenced under [MITLICENCE] (LICENCE).
+* Licenced under [MIT](LICENSE).
 * Copyright (c) 2020 
   **ANITA KAHENYA**
   **ROSE KAIRU**

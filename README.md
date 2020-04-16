@@ -10,7 +10,7 @@
 This address book is great is great for keeping track of our contacts' full names and their addresses
 
 ## Live Page 
-*[https://rosekairu.github.io/Address-Book]
+*(https://rosekairu.github.io/Address-Book)
 
 
 ## Installation / Setup instruction
@@ -52,7 +52,7 @@ This address book is great is great for keeping track of our contacts' full name
 
 ## Contact Information 
 
-* If you have any question or contributions, please email us at [anitakahenya1@gmail.com) or [rosekairu@gmail.com]
+* If you have any question or contributions, please email us at (anitakahenya1@gmail.com) or (rosekairu@gmail.com)
 
 ## License
 

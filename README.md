@@ -2,7 +2,7 @@
 
 ## Authors
 
-[kahenya-anita](https://github.com/kahenya-anita)
+[kahenya-anita](https://github.com/kahenya-anita) and 
 [rosekairu](https://github.com/rosekairu)
 
 ## Description
@@ -52,11 +52,11 @@ This address book is great is great for keeping track of our contacts' full name
 
 ## Contact Information 
 
-* If you have any question or contributions, please email us at [anitakahenya1@gmail.com]
+* If you have any question or contributions, please email us at [anitakahenya1@gmail.com) or [rosekairu@gmail.com]
 
 ## License
 
 * Licenced under [MIT](LICENSE).
 * Copyright (c) 2020 
-  **ANITA KAHENYA**
+  **ANITA KAHENYA**and 
   **ROSE KAIRU**
